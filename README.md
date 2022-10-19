@@ -1,2 +1,3 @@
 # Instagram Clone with Bootstrap
-![](assets/Instagram%20Clone.PNG)
+![](ss.png)
+* Patika.dev link: https://app.patika.dev/yigitmustu
